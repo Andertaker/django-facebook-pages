@@ -12,6 +12,7 @@ Add into `settings.py` lines:
 
     INSTALLED_APPS = (
         ...
+        'taggit',
         'oauth_tokens',
         'facebook_api',
         'facebook_pages',
